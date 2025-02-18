@@ -17,7 +17,6 @@ The system utilizes a **Res-Next Convolutional Neural Network (CNN)** to extract
 - **Deep Learning** (PyTorch, TensorFlow)
 - **Computer Vision** (OpenCV, Face Recognition)
 - **Neural Networks** (CNN, LSTM, GAN)
-- **Web Framework** (Django)
 - **Cloud Computing** (Google Cloud Platform)
 
 ## System Requirements
@@ -30,7 +29,7 @@ The system utilizes a **Res-Next Convolutional Neural Network (CNN)** to extract
 ### Software
 - **Operating System**: Windows 7+
 - **Programming Language**: Python 3.0+
-- **Frameworks**: PyTorch 1.4, Django 3.0
+- **Frameworks**: PyTorch 1.4
 - **Libraries**: OpenCV, Face-recognition
 
 ## Installation
